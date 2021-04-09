@@ -1,2 +1,0 @@
-C:\Users\Jakubko\Desktop\Git Repo\FrontendLearning\APIAssignment\APIAssignment\obj\Debug\APIAssignment.csprojAssemblyReference.cache
-C:\Users\Jakubko\Desktop\Git Repo\FrontendLearning\APIAssignment\APIAssignment\obj\Debug\APIAssignment.csproj.CoreCompileInputs.cache
